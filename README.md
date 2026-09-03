@@ -5,6 +5,11 @@ I am Charless I am based in ShenZhen, China.
 I'm a Aspice Developer, process Programmer and a Motor worker, focused on working with challenging
 projects and having fun while working.
 
+## - 🕹️ My Job
+
+I'm working as a Aspice group on a Motor fan project. 👓
+
+I'm also working as an Audit onlin tool Developer ;) 🎮
 ## - 📫 How to reach me
 
 You can e-mail me directly, get in touch through the account(s) below!
@@ -37,7 +42,7 @@ You can e-mail me directly, get in touch through the account(s) below!
 
 ## 🖼️ Preview <a id="preview"></a>
 
-> All previews below are **live** — pulled directly from the demo profile [`zyh3699/zyh3699`](https://github.com/zyh3699/zyh3699).
+> All previews below are **live** — pulled directly from the demo profile [`mocking286/mocking286`](https://github.com/mocking286/aspice-audit-master).
 
 ### Banner + Badges
 
