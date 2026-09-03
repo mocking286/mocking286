@@ -9,7 +9,7 @@ projects and having fun while working.
 
 I'm working as a Aspice group on a Motor fan project. 👓
 
-I'm also working as an Audit onlin tool Developer ;) 🎮
+I'm also working as an Audit online tool Developer ;) 🎮
 ## - 📫 How to reach me
 
 You can e-mail me directly, get in touch through the account(s) below!
