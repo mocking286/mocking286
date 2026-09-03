@@ -1,11 +1,11 @@
 # 🙋‍♂️ Hi there
 
-I am Dahezhiquan. I am based in İzmir, Turkey.
+I am Charless I am based in ShenZhen, China.
 
-I'm an enthusiastic Game Developer, Graphics Programmer and a Computer Scientist, focused on working with challenging
+I'm a Aspice Developer, process Programmer and a Motor worker, focused on working with challenging
 projects and having fun while working.
 
-![Doğa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeris170&show_icons=true)
+!(https://github.com/mocking286)
 
 ## - 🕹️ My Job
 
