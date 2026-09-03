@@ -9,9 +9,9 @@ projects and having fun while working.
 
 ## - 🕹️ My Job
 
-I'm working as a graphics programmer on a Microsoft Hololens project. 👓
+I'm working as a Aspice group on a Motor fan project. 👓
 
-I'm also working as an independent Game Developer ;) 🎮
+I'm also working as an Audit onlin tool Developer ;) 🎮
 
 ## - 🔭 I'm currently working on
 
@@ -69,8 +69,8 @@ I'd like to get in touch with the following topics:
 
 You can e-mail me directly, get in touch through the account(s) below!
 
-[![Linkedin Badge](https://img.shields.io/badge/dogaoruc-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/do%C4%9Fa-oru%C3%A7-973b08155/)
-[![Portfolio Badge](http://img.shields.io/badge/event_horizon-check_out_my_portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aeris170.github.io)
+[![Bilibili Badge](https://account.bilibili.com/account/home?spm_id_from=333.40138.0.0)
+[![Youtube Badge]()](https://www.youtube.com/@LiYuMeng)
 
 <div align="center">
 
