@@ -5,7 +5,14 @@ I am Charless I am based in ShenZhen, China.
 I'm a Aspice Developer, process Programmer and a Motor worker, focused on working with challenging
 projects and having fun while working.
 
-!(https://github.com/mocking286)
+## - 📫 How to reach me
+
+You can e-mail me directly, get in touch through the account(s) below!
+
+[![Bilibili Badge](https://account.bilibili.com/account/home?spm_id_from=333.40138.0.0)
+[![Youtube Badge]()](https://www.youtube.com/@LiYuMeng)
+
+<div align="center">
 
 ## - 🕹️ My Job
 
@@ -65,14 +72,7 @@ I'd like to get in touch with the following topics:
 - Game Development in C++, C# or Java
 - Graphics Programming in C++, C or Java
 
-## - 📫 How to reach me
 
-You can e-mail me directly, get in touch through the account(s) below!
-
-[![Bilibili Badge](https://account.bilibili.com/account/home?spm_id_from=333.40138.0.0)
-[![Youtube Badge]()](https://www.youtube.com/@LiYuMeng)
-
-<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
